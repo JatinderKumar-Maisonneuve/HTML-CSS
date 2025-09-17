@@ -1,0 +1,26 @@
+
+.couler-verte
+{ 
+     color:green;
+     text-align: center;
+
+}
+.image-conatiner
+{ 
+     
+     border-image: center;
+
+}
+
+h2 { 
+     color:green;
+     text-align: center;
+
+}
+p
+{ 
+    border-style: solid;
+     color:beige;
+     text-align: center;
+
+}
