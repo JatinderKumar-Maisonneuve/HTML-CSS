@@ -3,21 +3,21 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: #7777ee;
+      background: white;
     }
     header {
-      background:#258a39;
+      background:rgb(182, 138, 43);
       color: rgb(235, 235, 237);
       padding: 2rem;
       text-align: center;
     }
     nav {
-      background: #444;
+      background: rgb(157, 120, 58);
       padding: 0.5rem;
       text-align: center;
     }
     nav a {
-      color: white;
+      color: rgb(15, 14, 14);
       margin: 0 15px;
       text-decoration: none;
     }
@@ -33,39 +33,72 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  background: black;
-  color: rgb(224, 226, 247);
+  background: rgb(182, 138, 43);
+  color: black;
   text-align: center;
   padding: 1rem;
       
     }
     main {
           min-height: 100vh;
-  background-image: url('image/image.jpg');
+  background-image: url('image/image4.1.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 
   
 }
-h2 { 
-     color:aliceblue;
+h1{ 
+     color:whitesmoke;
      text-align: center;
 
 }
 h3{ 
-     color:rgb(209, 221, 231);
+     color:whitesmoke;
      text-align: center;
 
 }
 ul { 
-     color:white;
+     color:whitesmoke;
      text-align:left;
 
 }
+h2
+{ 
+     color:whitesmoke;
+     text-align: center;
 
- 
-
+} 
+ .member h3 {
+      margin: 10px 0 5px;
+      color: #333;
+    }
+    .member p {
+      font-size: 14px;
+      color: #555;
+    }
+     .team {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 20px;
+      gap: 20px;
+    }
+    .member {
+      background: rgb(239, 160, 82);
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      width: 250px;
+      height: 250px;
+      text-align: center;
+      padding: 15px;
+    }
+    b {
+      color: black
+    }
+    p {
+      color: white
+    }
 
 
 
