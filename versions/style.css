@@ -33,7 +33,7 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  background: rgb(182, 138, 43);
+  background:rgb(182, 138, 43);
   color: black;
   text-align: center;
   padding: 1rem;
@@ -49,7 +49,7 @@
   
 }
 h1{ 
-     color:whitesmoke;
+     color:rgb(245, 84, 10);
      text-align: center;
 
 }
@@ -63,12 +63,7 @@ ul {
      text-align:left;
 
 }
-h2
-{ 
-     color:whitesmoke;
-     text-align: center;
 
-} 
  .member h3 {
       margin: 10px 0 5px;
       color: #333;
